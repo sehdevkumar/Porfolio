@@ -1,0 +1,45 @@
+section{
+    opacity: 1;
+    width: 100%;
+}
+.text-intro{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color: whitesmoke;
+    font-family: 'Russo One', sans-serif;
+}.profile-intro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}#skills h3{
+    font-family: 'Russo One', sans-serif;
+    color: wheat;
+}.skill .card{
+    background:none;
+    margin: 12px;
+    height: 300px;
+    /* padding: 20px; */
+}#projects h3{
+    font-family: 'Russo One', sans-serif;
+    color: wheat;
+}#contact h3{
+    font-family: 'Russo One', sans-serif;
+    color: wheat;
+}.skill .card img{
+    width: 100%;
+}#contact input,textarea{
+    background:none;
+    margin-top: 12px;
+    color: rgb(48, 15, 194);
+}#contact textarea {
+    background:none;
+    color: rgb(48, 15, 194);
+    resize: none;
+}#contact button{
+    border: 1px solid rgba(0,0,0,0.4);
+    color: blanchedalmond;
+    margin-top: 12px;
+}
